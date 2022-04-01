@@ -5,7 +5,7 @@ This project is focused on visualizing NYC CitiBike data from 2019 consumer use 
 
 [Link to Tableau dashboard](https://public.tableau.com/views/NYC_Bikesharing_16487730421000/NYCBikeshare?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
-Data Sources:  201908-citibike-tripdata.csv, 201908-citibike-tripdata_UPDATED.csv
+Data Sources:  201908-citibike-tripdata.csv, 201908-citibike-tripdata_UPDATED.csv   
 Software:  Tableau, Python, Jupyter Notebook, Pandas Library
 
 ## Results:
