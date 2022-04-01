@@ -1,7 +1,7 @@
 # Bikesharing Business Analysis
 
 ## Project Overview:
-This project is focused on visualizing 2019 NYC CitiBike consumer use data.  Potential investors are interested in this business model's customer base, and if Des Moines, IA, is the right location for a bikesharing venture.  
+This project is focused on visualizing 2019 NYC CitiBike consumer use data.  Potential investors are interested in this business model's customer base, and if Des Moines, IA, is the right location for a new bikesharing venture.  
 
 [Link to Tableau dashboard](https://public.tableau.com/views/NYC_Bikesharing_16487730421000/NYCBikeshare?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
