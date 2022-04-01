@@ -27,6 +27,6 @@ Software:  Tableau, Python, Jupyter Notebook, Pandas Library
 Bikesharing is growing in popularity.  It offers people an extra transportation choice for short trips.  It is a healthy option and builds in exercise and fun.  Maybe saving the planet one bike ride at a time - leave the car in the garage, or maybe not own own at all.
 
 Additional visualizations to help understand the business model might be:
-1. Seasonal impact - August is warm, January is not.
+1. Seasonal impact - August is warm, January is not. How does local weather/seasons impact rides?  
 2. E-bikes - do bikesharing companies that offer e-bikes attract more female riders? 
 
