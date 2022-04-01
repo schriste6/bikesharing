@@ -20,7 +20,7 @@ Software:  Tableau, Python, Jupyter Notebook, Pandas Library
 - Ride durations are predominently short, less than 1-hour.    
 - Ride durations by gender show males far out number females in number of rides, but duration is consistent among both genders.    
 ![](/Resources/User_Patterns.png)   
-**Weekdays:**   
+**Weekdays:**     
 - Monday through Friday show heavy trip patterns around the primary commuter hours; 8am and 5 & 6pm.   
 - Weekends show steady trip pattern between 9am - 7pm.  
 - Male and Female show similar trip patterns, Male patterns are heavier/more volume.   
