@@ -19,12 +19,14 @@ Software:  Tableau, Python, Jupyter Notebook, Pandas Library
 **Ride Durations:**   
 - Ride durations are predominently short, less than 1-hour.    
 - Ride durations by gender show males far out number females in number of rides, but duration is consistent among both genders.    
+
 ![](/Resources/User_Patterns.png)
 **Weekdays:**   
 - Monday through Friday show heavy trip patterns around the primary commuter hours; 8am and 5 & 6pm.   
 - Weekends show steady trip pattern between 9am - 7pm.  
 - Male and Female show similar trip patterns, Male patterns are heavier/more volume.   
-*Subscribers are great customers.* 
+*Subscribers are great customers.*   
+
 ## Summary:
 Bikesharing is growing in popularity.  It offers people an extra transportation choice for short trips.  It is a healthy option and builds in exercise and fun.  Maybe saving the planet one bike ride at a time - leave the car in the garage, or maybe not own own at all.
 
